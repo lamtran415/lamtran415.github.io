@@ -3232,3 +3232,7 @@ input, select, textarea {
 .skill {
 	font-size: 40px;
 }
+
+.send-message {
+	margin-top: 40px;
+}
