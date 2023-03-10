@@ -98,7 +98,7 @@ input, select, textarea {
 		}
 
 	body, input, select, textarea {
-		color: #a2a2a2;
+		color: #4e4e4e;
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 16pt;
 		font-weight: 400;
@@ -135,7 +135,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #787878;
+		color: #8a0000;
 		font-weight: 400;
 		line-height: 1em;
 		margin: 0 0 1em 0;
@@ -3227,10 +3227,20 @@ input, select, textarea {
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
+	margin-bottom: 25px;
+}
+
+.resize-devicon {
+	height: 70px;
+	width: 70px;
 }
 
 .skill {
-	font-size: 40px;
+	font-size: 70px;
+}
+
+.skills p {
+	font-size: 15px;
 }
 
 .send-message {
